@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/boluo/',
   title: '菠萝吹雪的博客',
   description: 'Just playing around',
   themeConfig: {
